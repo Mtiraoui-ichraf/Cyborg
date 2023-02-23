@@ -1,0 +1,12 @@
+.cyborg-navbar{
+    min-height: 100px;
+}
+.container-fluid{
+    
+    gap: 400px;
+}
+
+img {
+    width: auto;
+    height: 150px;
+}
